@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+    text-align: center;   
+}
+.C-CEN{
+    margin-top: 50px;
+    /* margin-top: 200px; */
+}
+
+#inc-btn{
+    border: none;
+    padding: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+#save-btn{
+    border: none;
+    padding: 20px 40px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+#prev{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
